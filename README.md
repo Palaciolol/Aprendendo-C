@@ -22,9 +22,9 @@ Todo o conteúdo aqui foi desenvolvido com base nas aulas do canal:
 🔗 [Programe Seu Futuro - YouTube](https://www.youtube.com/@ProgrameSeuFuturo)
 
 📺 Playlist utilizada:  
-➡️ [Curso de programação C completo](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
+➡️ [Curso de programação C completo](https://www.youtube.com/watch?v=r0UR9Bdcpic&list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA)
 
 ---
 
-## 🗂 Estrutura do Repositório
+
 

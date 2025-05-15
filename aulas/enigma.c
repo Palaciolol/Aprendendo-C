@@ -12,9 +12,6 @@ void enigma(int v[], int esq, int dir){
 
 }
 
-
-
-
 int desconhecido(int n){
     if (n == 0){
         return 1;
@@ -44,7 +41,10 @@ int main()
 {
     int v[5] = {1,2,3,4,5};
     int x;
-
+    int y;
+    y = 2;
+    char z;
+    z = 'a';
     
     enigma(v, 0, 4);
 
